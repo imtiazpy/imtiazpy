@@ -15,6 +15,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BEMka9Qm0ZukpAKja0uSMdwNfiMLlid1/view?usp=sharing](https://drive.google.com/file/d/1BEMka9Qm0ZukpAKja0uSMdwNfiMLlid1/view?usp=sharing)
 
+
+[![An image of @imtiazpy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imtiazpy)](https://holopin.io/@imtiazpy)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imtiazpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imtiazpy" height="30" width="40" /></a>
