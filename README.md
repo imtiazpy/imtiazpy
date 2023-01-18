@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **Django, React, Next**
+- 💬 Ask me about **Python, JavaScript, Django, React, Next**
 
 - 📫 How to reach me **imtiazahmed.py@gmail.com**
 
