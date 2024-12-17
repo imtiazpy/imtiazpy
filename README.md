@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **imtiazahmed.py@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/13vh2-vIa8WjO5ii5PfN-TJWv7b0mQhiq/view?usp=sharing)
-
-- 📄 Find my articles [Hashnode](https://imtiazpy.hashnode.dev/)
+- 📄 Find my blog [Hashnode](https://imtiazpy.hashnode.dev/)
 
 
 [![An image of @imtiazpy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imtiazpy)](https://holopin.io/@imtiazpy)
